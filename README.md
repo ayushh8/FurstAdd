@@ -1,5 +1,8 @@
 # FurstAid: Your Personal Pet Symptom Analyzer
 
+**About the name:**
+> **FurstAid** is a play on words combining "Fur" (referring to animals' bodies) and "First Aid," highlighting the app's mission to provide immediate, intelligent care and advice for your pets.
+
 FurstAid is a fullstack AI-powered web app that helps pet owners get instant, AI-generated advice and diagnosis for their pets' symptoms. It supports both text and image input, and features a chat-style interface for follow-up questions.
 
 ---
