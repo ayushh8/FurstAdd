@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+venv/
+.env
+
+# FastAPI
+/uploads/
+
+# Node
+node_modules/
+.next/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/ 
